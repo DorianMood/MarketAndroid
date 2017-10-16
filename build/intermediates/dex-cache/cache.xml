@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cifracom\.android\build-cache\8da08277bea098a759777bf3a835ddc9dd396af1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\pre-dexed\debug\classes_b68e3072059e22d8755b5a70d8066aaaece31f3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\c91e5e9db9ec1cefb62f840b050cfb73cff5f674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b08ee3fce6b8b0280942ae6bc9a21b57487f0b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\8da08277bea098a759777bf3a835ddc9dd396af1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b68e3072059e22d8755b5a70d8066aaaece31f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\03f2e508f63e12242085dfd905c9dce886c6082e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc8f8c645374dd81a6c828fa6e94f7fa2e9be940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_3c0ebb9459126e2aac1118f940f7256dcd0e200c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\414840d922f1b0b96118a3bc7403cde226392269\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5c1374520865afeb3125486420c6a57a8336687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_032f46b74f3e6129db9c5c7c55e20472d9b7c0e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\4af938960099658cbe6908df4549de715d2f2f1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6d5ddd88e366088c83431478211b0b4ac752284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\5a6b86e4f5c3f2f06722f3a4a6622b668d3b287c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_606e06f6356c36f3d6d6fa01902eec3cd571d7a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\be121c23644f1b36799a7115ef4a6f2e53d7bd32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3575481b7ff3c77f2219e1869a194a4b9a04e840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\2e750a34ee0a7071072dc11921ede3275c25a6f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1937f77379bb3b8ef19e2f6f7068877957e22cf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\12f05acce81cbf7fa6ff3e5e0691c816dbde2563\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68830c04c4f804ae4ca1b739db8c4740f3e632a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\69f4a639f1b635737c23c2b8074c76ca0a83729f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_762159e1ef6b22b0d490783d24122a8afcb5e674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1e3854d44e515e580710e385735b126840df162a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\1ab5f04e195e354ad3d15105a1d4cfaceb68128d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71d0ff6d3fba303a201a88b754c17b4309913316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\6565023a183c15d0483612b25b247df1ce46957a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_718dc905b3ed6dedcfbd62263cd60dc52b238858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\77cc05dc52fb8fe36e5078d3b9c7d36b0271e609\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d6053943346f7ce44f723ccafd12f49e06eace3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1556a6ada5290bd7a183db13eabfe594d49a3d8">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_09982491b542eef860e932cb484396c31ba17b4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cifracom\.android\build-cache\596dbddade897f4b389f777feedd6016ffb2ff66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\cifracom\AndroidStudioProjects\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3fb3d8e2d56a00164d237104b0d5f765456ca49\classes.dex" />
+    </item>
+
+</items>
